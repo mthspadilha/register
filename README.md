@@ -1,5 +1,6 @@
 # Register
 
+## Description PT-BR
 ```
  Orientações Projeto Técnico Tecnologias a utilizar: 
  Obrigatório: AngularJS Spring Boot Banco de dados MySQL ou Postgres 
@@ -23,15 +24,17 @@ Deverá ser possível uma pessoa qualquer fazer o registro no sistema Deverá po
  R3) Código IBGE é único. O projeto deverá ser colocado no GitHub, após isso deverá ser enviado um e-mail com o endereço do repositório. Obs: Caso não conseguir concluir o projeto, o mesmo pode ser entregue de forma parcial. Temos métodos
  para avaliar desta forma também.
 ```
-##TODO LIST
-[] Service classes
-[] Repositoy classes
-[] Create Database
-[] FrontEndpages
-[] 0Auth 2.0
-[] Exeception Erros
-[] Cors Configuration
-[] Tests
+### TODO LIST ✅
+- [X] Model Classes
+- [X] Preset db conection
+- [ ] Service classes
+- [ ]  Repositoy classes
+- [ ] Create Database
+- [ ] FrontEndpages
+- [ ] 0Auth 2.0
+- [ ] Exeception Erros
+- [ ] Cors Configuration
+- [ ] Tests
 
 ps: I'm developing this api for a job aplication. 💻
 
