@@ -16,9 +16,11 @@ public class CityService {
         this.cityRepo = cityRepo;
     }
     public City addCity(City city){
+
         return cityRepo.save(city);
     }
     public List<City> findAllCities(City city){
+
         return cityRepo.findAll();
     }
 }
