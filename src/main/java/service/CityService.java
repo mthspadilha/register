@@ -19,7 +19,7 @@ public class CityService {
 
         return cityRepo.save(city);
     }
-    public List<City> findAllCities(City city){
+    public List<City> findAllCities(){
 
         return cityRepo.findAll();
     }
