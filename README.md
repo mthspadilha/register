@@ -28,12 +28,12 @@ Deverá ser possível uma pessoa qualquer fazer o registro no sistema Deverá po
 - [X] Model Classes
 - [X] Preset db conection
 - [ ] Service classes
-- [ ]  Repositoy classes
+- [X] Repositoy classes
 - [ ] Create Database
 - [ ] FrontEndpages
 - [ ] 0Auth 2.0
 - [ ] Exeception Erros
-- [ ] Cors Configuration
+- [X] Cors Configuration
 - [ ] Tests
 
 ps: I'm developing this api for a job aplication. 💻
