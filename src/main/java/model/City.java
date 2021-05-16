@@ -12,6 +12,7 @@ public class City {
     @Column(nullable = false, updatable = false)
     private Long Id;
     private String codIbge;
+    @Column(length = 50, nullable = false, updatable = false)
     private String nomeCidade;
 
     public City(){}
