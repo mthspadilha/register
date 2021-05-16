@@ -1,10 +1,11 @@
 package model;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
+import java.util.HashSet;
+import java.util.Set;
 
+@Entity
+@Table(name="city")
 public class City {
 
     @Id
@@ -14,6 +15,9 @@ public class City {
     private String codIbge;
     @Column(length = 50, nullable = false, updatable = false)
     private String nomeCidade;
+
+    @OneToMany(mappedBy = "city")
+    private Set<Client> clients = new HashSet<>();
 
     public City(){}
 

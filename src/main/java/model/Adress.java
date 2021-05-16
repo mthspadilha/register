@@ -15,11 +15,11 @@ public class Adress implements Serializable {
     private String zipCode;
     private Boolean status;
 
-    /**
+    //Foreign Key client-adress//
     @ManyToOne
     @JoinColumn(name = "id_client")
-    private Cliente cliente;
-    **/
+    private Client client;
+
 
     public Adress(){}
 
