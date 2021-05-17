@@ -29,7 +29,7 @@ Deverá ser possível uma pessoa qualquer fazer o registro no sistema Deverá po
 - [X] Preset db conection
 - [X] Service classes
 - [X] Repositoy classes
-- [ ] Create Database
+- [X] Create Database
 - [ ] FrontEndpages
 - [ ] 0Auth 2.0
 - [ ] Exeception Erros
@@ -37,4 +37,9 @@ Deverá ser possível uma pessoa qualquer fazer o registro no sistema Deverá po
 - [ ] Tests
 
 ps: I'm developing this api for a job aplication. 💻
+Im using:
+- Spring Boot Framework
+- Angular
+- PostgreSQL
+- Bootstrap
 
