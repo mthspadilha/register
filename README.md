@@ -27,7 +27,7 @@ Deverá ser possível uma pessoa qualquer fazer o registro no sistema Deverá po
 ### TODO LIST ✅
 - [X] Model Classes
 - [X] Preset db conection
-- [ ] Service classes
+- [X] Service classes
 - [X] Repositoy classes
 - [ ] Create Database
 - [ ] FrontEndpages
