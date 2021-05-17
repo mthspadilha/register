@@ -36,8 +36,8 @@ Deverá ser possível uma pessoa qualquer fazer o registro no sistema Deverá po
 - [X] Cors Configuration
 - [ ] Tests
 
- ** ps: I'm developing this api for a job aplication. 💻 **
-Im using:
+> **ps: I'm developing this api for a job aplication.** 💻
+> Im using:
 - Spring Boot Framework
 - Angular
 - PostgreSQL
